@@ -6,6 +6,7 @@
         Grey: "#333333",
         DarkGrey: "#1F1F1F",
         OffBlack: "#121212",
+        Green: "hsl(75, 94%, 57%)",
       },
     },
   },
