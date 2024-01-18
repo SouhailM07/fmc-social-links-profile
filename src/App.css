@@ -1,0 +1,10 @@
+html {
+  font-size: 13.5px;
+}
+body {
+  font-family: "Inter" !important;
+}
+
+* {
+  transition: 0.3s;
+}
